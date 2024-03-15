@@ -1,0 +1,4 @@
+.mainArticle {
+    flex: 0 0 calc(50% - 32px);
+    border: 2px solid #333;
+}
